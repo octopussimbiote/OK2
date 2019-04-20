@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Everything OK 2</string>
+    <string name="button">Make Everything</string>
+
+    <string name="make_good">Make good</string>
+    <string name="make_better">Make better</string>
+    <string name="make_OK">Make everything OK</string>
+    <string name="make_bad">Make bad</string>
+
+</resources>

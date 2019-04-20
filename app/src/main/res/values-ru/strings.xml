@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Всё хорошо 2</string>
+    <string name="button">Сделать всё</string>
+
+    <string name="make_good">Сделать хорошо</string>
+    <string name="make_better">Сделать лучше</string>
+    <string name="make_OK">Сделать всё отлично!</string>
+    <string name="make_bad">Make bad</string>
+
+</resources>
